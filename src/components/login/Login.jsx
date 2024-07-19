@@ -74,7 +74,7 @@ const Login = () => {
       <div className='container'>
         <div className='row my-4'>
           <div className='col-md-4 mx-auto rounded border p-4'>
-            <h2 className='text-center mb-3'>Login</h2>
+            <h2 className='text-center mb-3'>Login Credentials</h2>
             <p className='text-center mb-4'>
               Please enter your email and password
             </p>
