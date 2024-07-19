@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "MSI GL65 Leopard",
+      "price": "1199",
+      "description": "A powerful gaming laptop with high-end performance and features.",
+      "createdAt": "2023-09-13T17:54:00.000Z",
+      "imageFileName": "leopards.png"
+    },
+    {
+      "id": 2,
+      "name": "Dell XPS 13",
+      "price": "1399",
+      "description": "A premium ultrabook with a stunning display and sleek design.",
+      "createdAt": "2023-09-13T17:55:00.000Z",
+      "imageFileName": "dell.png"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Pro",
+      "price": 1299,
+      "description": "Apple's high-performance laptop with advanced features and sleek design.",
+      "createdAt": "2023-09-13T17:56:00.000Z",
+      "imageFileName": "macpro.png"
+    },
+    {
+      "id": 4,
+      "name": "HP Spectre x360",
+      "price": 1199,
+      "description": "A versatile 2-in-1 laptop with a premium design and powerful performance.",
+      "createdAt": "2023-09-13T17:57:00.000Z",
+      "imageFileName": "hp2.png"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 1492,
+      "description": "A high-performance business laptop with durability and advanced features.",
+      "imageFileName": "lenovo.png",
+      "createdAt": "2023-09-13T17:57:00.000Z",
+      "id": 5
+    }
+  ]
+}
